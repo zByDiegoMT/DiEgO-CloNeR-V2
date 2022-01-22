@@ -2,8 +2,7 @@
 
 Discord Server Cloner | JavaScript | Without Permissions | Only with the server ID
 
-Username: zbydiegomt
-Password: diego-cloner
+Username: zbydiegomt ---------------- Password: diego-cloner
 
 PREVIEW:
 
