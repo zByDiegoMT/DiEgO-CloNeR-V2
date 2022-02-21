@@ -6,5 +6,4 @@ Username: zbydiegomt ---------------- Password: diego-cloner
 
 PREVIEW:
 
-![image](https://user-images.githubusercontent.com/97636244/150640014-cc5c4954-678a-49c2-805e-6cdd9fe96ddb.png)
-
+![image](https://user-images.githubusercontent.com/97636244/155023447-9e290bd4-ab0d-4d05-be56-e9e74a230223.png)
