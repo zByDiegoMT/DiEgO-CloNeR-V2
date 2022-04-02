@@ -15,5 +15,8 @@ npm install axios
 npm install retry-axios
 npm install colors
 npm install inquirer
-pause
+echo.
+echo.
+echo.
 echo [40;36mModulos instalados correctamente - Correctly installed modules
+pause
